@@ -1,0 +1,5 @@
+
+Idris Sanatkar, Electrical Engineering, First Year
+Version control is when you push your local file to the master hub because your confident that you want to save your changes.
+A repository is a a public folder in GitHub
+I want to learn more about how to use it for personal projects
